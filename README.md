@@ -30,3 +30,26 @@ sudo docker run -d --name notes -p 5432:5432 -e "POSTGRES_DB=notes_development" 
 
 * ...
 
+* List of GEM`s
+
+bootstrap
+
+devise
+
+rubocop
+
+rspec
+
+omniauth
+
+kaminari
+
+simplecov
+
+factory_bot_rails
+
+capybara
+
+byebug
+
+
